@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 24" width="380" height="24" role="presentation">
+  <!-- Field-notebook divider: two hairlines and a small specimen mark. Mid-tone sepia reads on light and dark themes. -->
+  <g fill="none" stroke="#9a8364" stroke-linecap="round">
+    <path d="M10 12 H160" stroke-width="1"/>
+    <path d="M220 12 H370" stroke-width="1"/>
+    <path d="M150 9 v6 M140 10 v4 M230 9 v6 M240 10 v4" stroke-width="0.8"/>
+    <ellipse cx="190" cy="12" rx="4" ry="6" stroke-width="1"/>
+    <path d="M186 10 C176 2, 168 6, 172 12 C168 18, 176 22, 186 14" stroke-width="0.9"/>
+    <path d="M194 10 C204 2, 212 6, 208 12 C212 18, 204 22, 194 14" stroke-width="0.9"/>
+    <path d="M188 6 l-3 -4 M192 6 l3 -4" stroke-width="0.8"/>
+  </g>
+  <circle cx="190" cy="12" r="1.6" fill="#c9974a"/>
+</svg>
