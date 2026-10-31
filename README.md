@@ -49,11 +49,9 @@ Ten agents live 60 simulated days in a world where some domains contradict commo
 
 In the pilot the agents learned where they were wrong (AUROC2 +0.31, 90% CI 0.20–0.42, against a twin noise level of 0.06), but they barely changed their behavior: verification rose only from 9% to 11%. The follow-up stage is running now.
 
-<!-- TODO fin-comp: restore when its one-sentence question is written and naming it publicly is OK.
-**fin-comp** · early stage, with my former thesis advisor
+**Fin-Comp: a trading firm run by local agents** · in progress
 
-One sentence on the question fin-comp asks.
--->
+A simulated trading company whose analyst, researcher, trader and risk teams are local LLM agents (TradingAgents on Qwen through MLX), running every night on a $100,000 paper portfolio of five US stocks. Hard-coded risk rules sit between the agents and every trade. Daily profit and loss gives an objective score, which makes it a testbed for the real question: do agents improve more through automatic self-improvement or through a ledger of lessons a person curates?
 
 **MBA thesis: annual reports and company value** · Istanbul University, 2025
 
